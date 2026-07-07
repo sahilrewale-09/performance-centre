@@ -24,7 +24,7 @@ export default function Hero() {
         <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#E63030] mb-4">A Project Battlefit Affiliate</p>
 
         {/* Heading */}
-        <h1 className="font-black leading-none tracking-tight uppercase text-balance" style={{fontSize:'clamp(48px,9vw,100px)'}}>
+        <h1 className="font-black leading-none tracking-tight uppercase text-balance" style={{fontSize:'clamp(48px,5vw,100px)'}}>
           WHERE PERFORMANCE<br />
           <span className="text-[#E63030]">MEETS PURPOSE.</span>
         </h1>
